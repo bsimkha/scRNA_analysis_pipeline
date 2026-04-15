@@ -1,0 +1,10 @@
+#Enter the path for input cell-gene matrix directory
+input_dir: "/Users/bibhusimkhada/Desktop/scRNA/1_Raw_data/filtered_feature_bc_matrix"
+
+#Enter the path for output directory
+output_dir: "/Users/bibhusimkhada/Desktop/scRNA/2_Pipeline/output"
+
+#Reference genome
+reference:
+ genome: "Volumes/Bibhus_SSD/Genomics/Reference_genome/GCF_000001405.40_GRCh38.p14_genomic.fna.gz"
+
